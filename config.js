@@ -21,8 +21,8 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+254795852211"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+254795852211"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+254795852211"];         //If you want singal number so global.Owner = ['254795852211'] Change into your number.
+global.OwnerNumber = ["+254795852211"];   //If you want singal number so global.Owner = ['254795852211'] Change into your number.
 global.ownertag = ["+254795852211"];
 global.OwnerName = "𝑫𝑹𝑨𝑪𝑪𝑶";
 global.BotName = "𝑫𝑹𝑨𝑺𝑯𝑨𝑵";
@@ -46,7 +46,7 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "𝒅𝒓𝒂𝒔𝒉𝒂𝒏";
 
 
 //
